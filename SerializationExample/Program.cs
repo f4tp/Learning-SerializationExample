@@ -79,6 +79,7 @@ namespace SerializationExample
             }
             Animal.DisplayAllAnimalsInList();
             Console.ReadLine();
+            //test
         }
 
     }
